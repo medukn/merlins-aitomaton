@@ -27,7 +27,7 @@
 ### Step 1: Clone the Repository
 
 ```bash
-git clone https://github.com/Meduty/merlins-aitomaton.git
+git clone https://github.com/medukn/merlins-aitomaton.git
 cd merlins-aitomaton
 ```
 
